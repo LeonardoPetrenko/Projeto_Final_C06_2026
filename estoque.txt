@@ -1,0 +1,4 @@
+46-Usado-Chevrolet-Onix-Branco-2013-97000-false-55000.0-true
+100-Novo-Jeep-Compass-Cinza-2026-90-260000.0
+58-Usado-Ford-New Fiesta-Preto-2013-78000-false-43000.0-true
+28-Novo-Toyota-Corolla Cross-Prata-2026-90-240000.0
