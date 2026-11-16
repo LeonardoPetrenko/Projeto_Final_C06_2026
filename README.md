@@ -1,4 +1,5 @@
 Nome: Leonardo Petrenko | Matrícula: 1051 | Curso: Engenharia de Software
+
 Nome: Rafael Yohanam Castellari de Figueiredo | Matríclula: 171 | Curso: Engenharia de Produção
 
 Utilizamos IA para auxiliar no desenvolvimento do projeto. IA usada: Google Gemini Hydrogen (Thinking level: high)
